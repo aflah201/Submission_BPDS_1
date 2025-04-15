@@ -86,6 +86,9 @@ Setup Environment: Proyek ini membutuhkan lingkungan sederhana untuk menjalankan
 
 ---
 ## Business Dashboard
+![aflahazzaky-dashboard](https://github.com/user-attachments/assets/ef87347e-94a8-400c-aa4f-1c34d2b1a70c)
+
+Berdasarkan visualisasi data attrition pada perusahaan Jaya Jaya Maju, ditemukan beberapa faktor utama yang berkontribusi terhadap tingginya tingkat pengunduran diri karyawan. Karyawan yang lebih muda dengan pengalaman kerja yang masih minim cenderung lebih rentan untuk keluar dari perusahaan. Selain itu, karyawan yang jarang mendapat promosi serta mereka yang sering melakukan perjalanan dinas juga menunjukkan tingkat attrition yang lebih tinggi. Dari sisi jabatan, peran seperti Sales Executive dan Research Scientist memiliki tingkat attrition tertinggi. Sementara itu, departemen Sales menunjukkan angka attrition yang paling tinggi dibandingkan departemen lainnya. Status pernikahan juga berpengaruh, di mana karyawan lajang memiliki kemungkinan keluar lebih besar dibandingkan yang sudah menikah atau bercerai.
 
 ---
 ## Conclusion
